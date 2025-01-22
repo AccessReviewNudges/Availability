@@ -1,0 +1,29 @@
+﻿Participant,Group,H0 Rejected,t _minutes,R,BA,FDR,FOR,TP,TN,FP,FN,MD,TD,PF,FL,Highest education level completed,Age,Sex,Ethnicity simplified,Student status,Employment status,Course
+itsec00,Grid,1,22.3105,36,0.988888889,0.040322581,0.002808989,119,355,5,1,2,3,6,4,College,31,Male,White,Yes,Full-Time,Digital Law
+itsec01,List,1,20.25398333,31,0.965277778,0.100775194,0.011396011,116,347,13,4,5,4,5,6,College,20,Male,White,Yes,Full-Time,Digital Business
+itsec03,List,1,21.96986667,43,0.976388889,0.017094017,0.013774105,115,358,2,5,5,5,6,4,College,21,Male,White,Yes,Full-Time,Digital Business
+itsec04,Grid,1,16.21153333,45,0.973611111,0.008695652,0.016438356,114,359,1,6,5,4,5,5,College,23,Female,White,Yes,Full-Time,Management Information Systems
+itsec05,List,1,15.62291667,36,0.994444444,0.032258065,0,120,356,4,0,3,5,5,2,College,22,Male,White,Yes,Full-Time,Management Information Systems
+itsec06,Grid,0,12.31483333,50,0.925,0.054545455,0.043243243,104,354,6,16,5,3,5,5,College,23,Male,White,Yes,Full-Time,Management Information Systems
+itsec07,List,0,15.35781667,45,0.901388889,0.12173913,0.052054795,101,346,14,19,4,3,3,5,College,23,Female,White,Yes,Full-Time,Digital Law
+itsec08,Grid,1,22.94641667,36,0.95,0.096774194,0.02247191,112,348,12,8,5,6,4,5,College,22,Female,White,Yes,Full-Time,Management Information Systems
+itsec09,List,1,25.17241667,35,0.976388889,0.064,0.008450704,117,352,8,3,4,4,6,4,College,21,Female,White,Yes,Full-Time,Management Information Systems
+itsec11,List,1,23.73381667,46,0.958333333,0.026315789,0.024590164,111,357,3,9,4,4,4,5,College,23,Female,White,Yes,Full-Time,Management Information Systems
+itsec12,Grid,1,24.74956667,29,0.984722222,0.083969466,0,120,349,11,0,6,5,3,5,College,21,Male,White,Yes,Full-Time,Management Information Systems
+itsec13,List,1,21.40363333,39,0.998611111,0.008264463,0,120,359,1,0,5,5,6,2,College,25,Male,White,Yes,Full-Time,Digital Law
+itsec14,Grid,1,23.58236667,27,0.954166667,0.135338346,0.014409222,115,342,18,5,4,5,4,3,College,29,Female,White,Yes,Full-Time,Digital Law
+itsec15,List,1,23.37121667,38,0.997222222,0.016393443,0,120,358,2,0,5,4,6,4,College,20,Male,White,Yes,Full-Time,Management Information Systems
+itsec16,Grid,1,16.3586,8,0.95,0.217105263,0.00304878,119,327,33,1,4,2,2,4,College,21,Male,White,Yes,Full-Time,Management Information Systems
+itsec17,List,0,22.54281667,30,0.919444444,0.169230769,0.034285714,108,338,22,12,5,5,4,5,College,24,Female,White,Yes,Full-Time,Digital Law
+itsec19,List,1,33.35035,37,0.979166667,0.048780488,0.008403361,117,354,6,3,6,4,3,5,College,54,Female,White,Yes,Full-Time,Digital Law
+itsec20,Grid,1,24.54366667,42,0.980555556,0.016949153,0.011049724,116,358,2,4,2,4,7,1,College,28,Female,White,Yes,Full-Time,Digital Law
+itsec21,List,1,18.58796667,44,0.961111111,0.034482759,0.021978022,112,356,4,8,6,5,5,6,College,19,Female,White,Yes,Full-Time,Digital Business
+itsec22,Grid,1,18.41845,38,0.997222222,0.016393443,0,120,358,2,0,4,4,6,5,College,22,Female,White,Yes,Full-Time,Management Information Systems
+itsec23,List,0,18.67948333,52,0.938888889,0.018518519,0.037634409,106,358,2,14,5,4,6,3,College,22,Male,White,Yes,Full-Time,Management Information Systems
+itsec24,Grid,1,19.86073333,6,0.952777778,0.220779221,0,120,326,34,0,5,5,3,6,College,23,Male,White,Yes,Full-Time,Business Administration
+itsec25,List,1,17.53261667,46,0.958333333,0.026315789,0.024590164,111,357,3,9,4,5,6,5,College,22,Male,White,Yes,Full-Time,Management Information Systems
+itsec26,Grid,1,19.57496667,35,0.993055556,0.04,0,120,355,5,0,4,4,3,7,College,20,Male,White,Yes,Full-Time,Management Information Systems
+itsec98,Grid,1,18.35603333,38,0.997222222,0.016393443,0,120,358,2,0,5,5,6,5,Undergraduate degree (BA/BSc/other),23,Female,White,Yes,Full-Time,Management Information Systems
+itsec99,List,1,24.14601667,44,0.966666667,0.025862069,0.019230769,113,357,3,7,4,4,6,3,Undergraduate degree (BA/BSc/other),24,Male,White,Yes,Full-Time,Management Information Systems
+itsec100,Grid,1,20.0052,37,0.984722222,0.040650407,0.005602241,118,355,5,2,5,3,5,3,Graduate degree (MA/MSc/MPhil/other),29,Male,White,Yes,Full-Time,Management Information Systems
+itsec102,Grid,1,22.50398333,39,0.976388889,0.041322314,0.011142061,116,355,5,4,6,5,6,5,Graduate degree (MA/MSc/MPhil/other),26,Female,Asian,Yes,Full-Time,Management Information Systems
